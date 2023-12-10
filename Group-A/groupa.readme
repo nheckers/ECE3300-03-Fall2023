@@ -1,1 +1,0 @@
-Our project contains the files necessary to process an image into a .COE Xylinix file, initialize BRAM on the Nexys-A7, compress it using the JPEG algorithm, and display it using the VGA output on the board.
