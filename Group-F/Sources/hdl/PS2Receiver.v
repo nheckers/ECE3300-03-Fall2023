@@ -9,7 +9,7 @@
 // Project Name: Nexys4DDR Keyboard Demo
 // Target Devices: Nexys4DDR
 // Tool Versions: 
-// Description: PS2 Receiver module used to shift in keycodes from a keyboard plugged into the PS2 port
+// Description: PS2 Receiver module used to output keycodes using PS2 protocol from a keyboard plugged into the USB port on Artix 7
 // 
 // Dependencies: 
 // 
